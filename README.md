@@ -1,3 +1,2 @@
-# Arithmetic Formatter
-
-This is the boilerplate for the Arithmetic Formatter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
+# Arithmetic Formatter Project
+This project is part of the freeCodeCamp's Scientific Computing with Python certification. It involved creating a Python function (`arithmetic_arranger`) that arranges given arithmetic problems vertically for easy readability. The function takes a list of arithmetic problems and returns a formatted string, with an option to include answers. It's designed to handle errors such as invalid inputs and too many problems. The project emphasizes string manipulation and formatting skills in Python.
